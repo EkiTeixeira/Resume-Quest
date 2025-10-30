@@ -365,8 +365,6 @@ export const ORBS = [
     content: 'Enjoy creating small games on Unity Game Engine (C#) & Unreal Game Engine (C++), helped with creating a game similar to Mario Kart plan on going back to it. I have created 10+ web based games like Space Invader, Flappy Birds, Pong etc.' },
   { x: 14500, y: GROUND_Y - 350, color: '#764ABC', label: 'Teaching Drone Building/Programming, Game Dev/Web Dev, AI, Cybersecurity', 
     content: 'Teaching students ages 12-20 how to build & program drones to later fly and prepare for Part 107 Pilot License. Introduction to Game Dev using Unity & code.org. AI & Cybersecurity understanding how it all works and how to program an AI.' }
-  { x: 15500, y: GROUND_Y - 250, color: '#764ABC', label: 'Team Building', 
-    content: 'Have a great skill with organizing a team together listening and working alongside coworkers to get to a common goal. Can assist with teams for the youth as well whether in the classroom or within sports.' }
 ];
 
 // Signposts (Edit the sentences here, according to your career journey)
@@ -426,13 +424,13 @@ export const SIGNS = [
             <h2>🧑🏾‍💻 Okay, Let's Take a Look at Some of my Creations</h2>
             <p>I love Creating things, whether that is websites or games or even interactive comic books (in the works), here are some of my creations</p>
             <ul style={{ listStyleType: 'none', padding: '0', margin: '0' }}>
-              <li>🛜 My CS EDU Website <link>https://www.b3antowncsdojo.com/</link> </li>
-              <li>🛜 City of Boston <link>www.visitboston.com</link> </li>
-              <li>🛜 Roxbury Community College <link>www.www.rcc.edu.com</link> </li>
-              <li>🛜 Nycole Life Coach <link>https://snycole.wixsite.com/my-site-1</link> </li>
-              <li>🛜 Brayden Tutoring Business <link>https://braydengillespie.wixsite.com/the-realm-of-thoth</link> </li>
-              <li>🛜 Shawn Rental/Party Planning <link>https://eteixeira122187.wixsite.com/cpelive</link> </li>
-              <li>🕹️ This Interactive Game Which is a Resume <link>https://elegant-syrniki-c8f045.netlify.app/</link> </li>
+              <li>🛜 My CS EDU Website https://www.b3antowncsdojo.com </li>
+              <li>🛜 City of Boston www.visitboston.com </li>
+              <li>🛜 Roxbury Community College www.www.rcc.edu.com </li>
+              <li>🛜 Nycole Life Coach https://snycole.wixsite.com/my-site-1</li>
+              <li>🛜 Brayden Tutoring Business https://braydengillespie.wixsite.com/the-realm-of-thoth</li>
+              <li>🛜 Shawn Rental/Party Planning https://eteixeira122187.wixsite.com/cpelive </li>
+              <li>🕹️ This Interactive Game Which is a Resume https://elegant-syrniki-c8f045.netlify.app </li>
             </ul>
           </>
     },
