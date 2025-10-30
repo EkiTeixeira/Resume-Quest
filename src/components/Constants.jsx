@@ -355,16 +355,18 @@ export const RIVERS = [
 
 // Tech Skill Orbs (Edit here with the skills you know alongside some nice description)
 export const ORBS = [
-  { x: 750, y: 150, color: '#61DAFB', label: 'React', 
-    content: 'Built 5+ React apps with hooks, context, and custom libraries' },
-  { x: 17600, y: GROUND_Y - 50, color: '#539E43', label: 'Mathematics',
-    content: 'Foundational knowledge of linear algebra, calculus, and discrete math' },
+  { x: 750, y: 150, color: '#61DAFB', label: 'Web Developement', 
+    content: 'Built 10+ interactive Websites for minority owned businesses, helped with website for city of Boston www.visitboston.com. Creating websites for 5 years! Profient in HTML, CSS, & JavaScript.' },
+  { x: 17600, y: GROUND_Y - 50, color: '#539E43', label: 'Computer Programming: C++/C#/JAVA',
+    content: 'Intermediate to advanced programming skills with C++ and JAVA. Enjoy both languages depending on what I am trying to do, for Game Dev I perfer C++ or C#.' },
   { x: 9200, y: GROUND_Y + 50, color: '#fb0f0fff', label: 'Computer Science', 
-    content: 'Proficient in data structures, algorithms, and design patterns' },
-  { x: 4150, y: GROUND_Y - 200, color: '#c6c631ff', label: 'Game dev', 
-    content: 'ES6 expert: closures, promises, generators, and performance patterns' },
-  { x: 14500, y: GROUND_Y - 350, color: '#764ABC', label: 'Machine Learning', 
-    content: 'Deep learning, reinforcement learning, and natural language processing' }
+    content: 'Proficient in data structures, algorithms, design patterns, understand the engineering process and how to element it when Software engineering.' },
+  { x: 4150, y: GROUND_Y - 200, color: '#c6c631ff', label: 'Game Dev', 
+    content: 'Enjoy creating small games on Unity Game Engine (C#) & Unreal Game Engine (C++), helped with creating a game similar to Mario Kart plan on going back to it. I have created 10+ web based games like Space Invader, Flappy Birds, Pong etc.' },
+  { x: 14500, y: GROUND_Y - 350, color: '#764ABC', label: 'Teaching Drone Building/Programming, Game Dev/Web Dev, AI, Cybersecurity', 
+    content: 'Teaching students ages 12-20 how to build & program drones to later fly and prepare for Part 107 Pilot License. Introduction to Game Dev using Unity & code.org. AI & Cybersecurity understanding how it all works and how to program an AI.' }
+  { x: 15500, y: GROUND_Y - 250, color: '#764ABC', label: 'Team Building', 
+    content: 'Have a great skill with organizing a team together listening and working alongside coworkers to get to a common goal. Can assist with teams for the youth as well whether in the classroom or within sports.' }
 ];
 
 // Signposts (Edit the sentences here, according to your career journey)
@@ -372,11 +374,15 @@ export const SIGNS = [
     { x: 150, y: GROUND_Y - 50, width: 100, height: 60, label: 'About Me', 
         content: 
           <>
-            <h2 style={{ textAlign: 'center' }}>👋 Hello there</h2>
-            <p>I'm <strong>Shiva</strong>, who loves building immerse gaming experiences with React & creative UI.</p>
+            <h2 style={{ textAlign: 'center' }}>👋 Hello There</h2>
+            <p>I'm <strong>Ekilisandro "Eky" Teixeira</strong>, who loves building immerse gaming experiences with using any game engine available to me. I also enjoy creating browser based games with JavaScript and it's many libraies.</p>
+            <p>I also enjoy creating websites for minority owned business and for minority people in general.</p>
+            <p>I am also a passionate CS teacher here in Boston, MA Urban Areas. I am a student majoring in Computer Science Programming & work within the Cannabis Industry.</p>
             <div style={{ display: 'flex', gap: '10px', marginTop: '5px', justifyContent: 'center', textAlign: 'center' }}>
               <span style={{ background: '#61DBFB', color: 'black', padding: '5px 10px', borderRadius: '20px', fontSize: '12px' }}>Game Developer</span>
-              <span style={{ background: '#61DBFB', color: 'black', padding: '5px 10px', borderRadius: '20px', fontSize: '12px' }}>React Enthusiast</span>
+              <span style={{ background: '#61DBFB', color: 'black', padding: '5px 10px', borderRadius: '20px', fontSize: '12px' }}>JavaScript/C++/C# Enthusiast</span>
+              <span style={{ background: '#61DBFB', color: 'black', padding: '5px 10px', borderRadius: '20px', fontSize: '12px' }}>Web Developer</span>
+              <span style={{ background: '#61DBFB', color: 'black', padding: '5px 10px', borderRadius: '20px', fontSize: '12px' }}>Computer Science Teacher</span>
             </div>
           </>
     },
@@ -384,16 +390,21 @@ export const SIGNS = [
         content: 
           <>
             <h2>📚 About My Education</h2>
-            <p>After completing my school, I literally lost any interest towards college, since I had to face <strong style={{ color: '#388e3c', textShadow: '0 0 2px rgba(56,142,60,0.3)' }}>the real world</strong>.</p>
-            <p>So I took my time and built my own <strong style={{ color: '#388e3c', textShadow: '0 0 2px rgba(56,142,60,0.3)' }}>curriculum</strong> around JS, C++, and Python for game development. Still learning every day.</p>
+            <p>Currently a college student here in the state of MA, <strong style={{ color: '#388e3c', textShadow: '0 0 2px rgba(56,142,60,0.3)' }}>looking to continue my education at Northeastern University or MIT Majoring in Computer Science Pprogramming with a Minor in Psycology.</strong>.</p>
+            <p>Aspiring to be a CS Teacher full time in my own school, <strong style={{ color: '#388e3c', textShadow: '0 0 2px rgba(56,142,60,0.3)' }}>working on a curriculum</strong> around JS, C++, and C# for game development. Still learning every day, in college and while I teach my students.</p>
           </>
     },
     { x: 3475, y: 250, width: 140, height: 60, label: 'Past Experience',
         content: 
           <>
-            <h2>💼 About my experience..</h2>
-            <p>It's been 4+ years when I started coding, and now I've been crafting interactive web games, apps, and game-dev tooling systems.</p>
-            <p>Contributing something to people who admire building things, but don't know where to start.</p>
+            <h2>💼 About My Experience</h2>
+            <p>It's been 6+ years when I started coding, and now I've been crafting interactive web games, apps, and game-dev tooling systems.</p>
+            <p>I started in a coding bootcamp called MSIMBO which means code in Swahili. After the 6 month Mon-Fri 9-4 course I decided to go to college and pursue a degree in CS</p>
+            <p>After about 3 years of college I decided to try my luck in teaching and did DPC and was a teachers assistant assisting the CS teacher in class with lessons & using the knowledge I had to assist her as well since she was not a CS major./p>
+            <p>After DPC I continued to work with Boston Public Schools and became a substitute teacher in January of 2023 at an elementary school teaching Math long term.</p>
+            <p>While continuing my studies in college, I became the Computer Programming & Web Dev teacher at English High School from 3/2023 to 12/2023. I was laid off in December of 2023 & was just brushing up on my skills as a coder until something came along.</p>
+            <p>In the meantime I have been working on creating websites for minority businesses for people around my neighborhood. I started a sole proprioship business www.b3antowncsdojo.com which I use to create websites for others, & teach CS in many different ways.</p>
+            <p>i am currently working for a test cannabis lab assisting with samples that are to be tested before they are tested and after they are tested. I am still working with my business and spreading the knowledge of CS EDU to everyone willing to learn.</p>
           </>
     },
     { x: 5000, y: GROUND_Y - 150, width: 150, height: 60, label: 'My Achievements',
@@ -401,23 +412,27 @@ export const SIGNS = [
           <>
             <h2 style={{ background: 'linear-gradient(to right, #ffd600, #ffab00)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', display: 'inline-block' }}>🏆 And Coming to my Career Highlights</h2>
             <ul style={{ listStyleType: 'none', padding: '0', margin: '0' }}>
-              <li style={{ background: 'rgba(255,214,0,0.1)', padding: '8px', borderRadius: '4px', marginBottom: '8px', borderLeft: '3px solid #ffd600' }}>I've Built 15+ interactive web experiences</li>
-              <li style={{ background: 'rgba(255,214,0,0.1)', padding: '8px', borderRadius: '4px', marginBottom: '8px', borderLeft: '3px solid #ffd600' }}>Made a React App that can be played in various platforms</li>
-              <li style={{ background: 'rgba(255,214,0,0.1)', padding: '8px', borderRadius: '4px', marginBottom: '8px', borderLeft: '3px solid #ffd600' }}>Developed a 2D game engine from scratch</li>
-              <li style={{ background: 'rgba(255,214,0,0.1)', padding: '8px', borderRadius: '4px', marginBottom: '8px', borderLeft: '3px solid #ffd600' }}>And worked on various game-dev tooling systems</li>
+              <li style={{ background: 'rgba(255,214,0,0.1)', padding: '8px', borderRadius: '4px', marginBottom: '8px', borderLeft: '3px solid #ffd600' }}>I've Built 8+ interactive web experiences (games, websites, etc...)</li>
+              <li style={{ background: 'rgba(255,214,0,0.1)', padding: '8px', borderRadius: '4px', marginBottom: '8px', borderLeft: '3px solid #ffd600' }}>Made this React App that can be played on my website www.thedojoettech.com</li>
+              <li style={{ background: 'rgba(255,214,0,0.1)', padding: '8px', borderRadius: '4px', marginBottom: '8px', borderLeft: '3px solid #ffd600' }}>Assisted with creating a website for the city of Boston www.visitboston.com & revamped Roxbury Community College website www.rcc.edu</li>
+              <li style={{ background: 'rgba(255,214,0,0.1)', padding: '8px', borderRadius: '4px', marginBottom: '8px', borderLeft: '3px solid #ffd600' }}>Created website for my student Brayden www.motivatedbydoinggood.com | Created website for a life coach Nycole out of Sacramento www.resetyoulifecoach.com | Created a website for my cousin Shawn related to his rental & party planning business www.cpelive.com</li>
+              <li style={{ background: 'rgba(255,214,0,0.1)', padding: '8px', borderRadius: '4px', marginBottom: '8px', borderLeft: '3px solid #ffd600' }}>Teach the YODA program at the Urban League of Eastern MA in Boston, MA encouraged lots of students to further pursue CS in College.</li>
             </ul>
           </>
     },
     { x: 7000, y: GROUND_Y - 650, width: 110, height: 60, label: 'My Projects',
         content: 
           <>
-            <h2>🎮 Okay, Let me show you some of my work...</h2>
-            <p>I love building stuff that's playable, not just viewable to skip off the next time.</p>
+            <h2>🧑🏾‍💻 Okay, Let's Take a Look at Some of my Creations</h2>
+            <p>I love Creating things, whether that is websites or games or even interactive comic books (in the works), here are some of my creations</p>
             <ul style={{ listStyleType: 'none', padding: '0', margin: '0' }}>
-              <li>🧩 Emojilator – A Match-3 game</li>
-              <li>🕹️ Coin Collector – Pure canvas fun</li>
-              <li>🌌 Tic Tac Toe – An AI Powered one</li>
-              <li>📜 This Platformer Resume – You’re inside!</li>
+              <li>🛜 My CS EDU Website <link>https://www.b3antowncsdojo.com/</link> </li>
+              <li>🛜 City of Boston <link>www.visitboston.com</link> </li>
+              <li>🛜 Roxbury Community College <link>www.www.rcc.edu.com</link> </li>
+              <li>🛜 Nycole Life Coach <link>https://snycole.wixsite.com/my-site-1</link> </li>
+              <li>🛜 Brayden Tutoring Business <link>https://braydengillespie.wixsite.com/the-realm-of-thoth</link> </li>
+              <li>🛜 Shawn Rental/Party Planning <link>https://eteixeira122187.wixsite.com/cpelive</link> </li>
+              <li>🕹️ This Interactive Game Which is a Resume <link>https://elegant-syrniki-c8f045.netlify.app/</link> </li>
             </ul>
           </>
     },
@@ -440,7 +455,7 @@ export const SIGNS = [
     { x: 11740, y: GROUND_Y - 550, width: 120, height: 60, label: 'Why Games?',
         content: 
           <>
-            <h2>🎮 And Why I Chose Games</h2>
+            <h2>🎮 Why I Chose Games</h2>
             <p>Because games are more than code snippets — they’re <strong style={{ color: '#6b6ba1ff', textShadow: '0 0 2px rgba(56,142,60,0.3)' }}>experiences</strong> that can teach, entertain, and connect people like nothing else.</p>
             <p>I build games because I love seeing people <strong style={{ color: '#6b6ba5ff' }}>smile, think, or feel wowed</strong> by something they just experienced.</p>
           </>
@@ -462,18 +477,19 @@ export const SIGNS = [
         content: 
           <>
             <h2>📜 Just so you know...</h2>
-            <p>You see, I'm a certified <strong style={{ color: '#649a8dff' }}>Programming Techniques Master</strong>, having scored RANK 10 at the state level. The Certificate was provided by Bharathidasan University.</p>
-            <p>And also I am a <strong style={{ color: '#649a8dff' }}>national rank holder</strong> at the NFLAT Examination 2016-17, so you can say I'm an expert in Math.</p>
+            <p>You see, I'm a certified <strong style={{ color: '#649a8dff' }}>ACT Job Readiness SILVER</strong>, this Cert coes from AT and they determine what level you are within you rcareer choice.</p>
+            <p>Also I am a <strong style={{ color: '#649a8dff' }}>MSIMBO Coding Academy Cert</strong> at the Urban League Eastern MA from 9/2016 to 2/2017</p>
+            <p>Should be completing my Associates degree on 6/2026, <strong style={{ color: '#649a8dff' }}>from Bunkerhill Community College</strong> in Charlestown, MA. Looking to continue education at Northeastern University</p>
           </>
     },
     { x: 16305, y: GROUND_Y - 350, width: 90, height: 60, label: 'My Stats',
         content: 
           <>
-            <h2>📈 Curious about numbers?</h2>
+            <h2>📈 Curious About Numbers?</h2>
             <ul style={{ listStyleType: 'none', padding: '0', margin: '0' }}>
-              <li>🚀 20+ mini projects completed</li>
-              <li>🕹️ 5 full-fledged playable games</li>
-              <li>🧠 1 personal engine in the works</li>
+              <li>🚀 12+ Mini Projects Completed</li>
+              <li>🕹️ 3 Full-Fledged Playable Games</li>
+              <li>🛜 15+ Websites Created</li>
             </ul>
             <p>And I still feel like I’m just getting started.</p>
           </>
@@ -482,7 +498,7 @@ export const SIGNS = [
         content: 
           <>
             <h2>📬 Oops! We’ve reached the end!</h2>
-            <p>Too bad, <strong style={{ color: '#70a203ff' }}>We still have a few more things to talk about</strong>. Maybe if you're willing, You will find it out if you decode this Hieroglyph.</p>
+            <p>Too bad, <strong style={{ color: '#70a203ff' }}>We still have a few more things to talk about</strong>. Maybe if you're willing, You will find it out if you decode this Hieroglyph. Just in case check out my website with plenty of contact information to reach out. <link>https://www.b3antowncsdojo.com/</link></p>
             <p>And, I hope you enjoyed this little <strong style={{ color: '#70a203ff' }}>adventure</strong>. Have fun exploring! 😁</p>
           </>
     },
@@ -491,7 +507,7 @@ export const SIGNS = [
           <>
             <h2>🚩 And That's It!</h2>
             <p>Thanks for taking your time to visit here.</p>
-            <p><strong style={{ color: '#04bb97ff' }}>Have a good day</strong> 😁</p>
+            <p><strong style={{ color: '#04bb97ff' }}>Hope it was fun, Have a good day!</strong> 😁</p>
           </>
     },
 ];
