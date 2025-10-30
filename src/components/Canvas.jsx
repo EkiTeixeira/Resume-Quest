@@ -1251,7 +1251,7 @@ const drawPlayer = (ctx, player, camX, camY) => {
   ctx.save();
 
   // Draw player
-  ctx.fillStyle = '#FFD700';
+  ctx.fillStyle = '#06402B';
   ctx.fillRect(
     player.current.x - camX,
     player.current.y - camY,
