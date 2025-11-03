@@ -414,7 +414,7 @@ export const SIGNS = [
             <h2>⚒️ Okay, Let me show you some of my work...</h2>
             <p>I love building stuff that's playable, not just viewable to skip off the next time.</p>
             <ul style={{ listStyleType: 'none', padding: '0', margin: '0' }}>
-              <li>🕹️ Worked on a team and created the game BEANS using <strong>Unity Game Engine</strong></li>
+              <li>🕹️ Worked on a team and created the game BEANS using <strong>Unity Game Engine</strong> <a href="https://livinginamerica.itch.io/roxbury-racers">Roxbury Racer BEANS</a></li>
               <li>🕹️ Worked with Benny Wilson and created the game ASANTE using <strong>Unreal Game Engine</strong></li>
               <li>🛜 Craeted websites for minority business within the Greater Boston Area & in the West Cost (CA/AR) <a href="https://snycole.wixsite.com/my-site-1">Coach Nycole Life Coach</a> <a href="https://braydengillespie.wixsite.com/the-realm-of-thoth">Brayden Gillespie Tutoring Service</a> <a href="https://eteixeira122187.wixsite.com/cpelive">Shawn Peters Party Planning/Rentals</a></li>
               <li>🧑🏾‍💻🕴🏾 Run a business that brings CS Programming Education to the inner city of Boston, MA <a href="https://www.b3antowncsdojo.com/">Beantown Computer Science Dojo</a></li>
