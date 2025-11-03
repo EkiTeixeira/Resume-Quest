@@ -392,7 +392,7 @@ export const SIGNS = [
         content: 
           <>
             <h2>💼 About my experience..</h2>
-            <p>It's been 6+ years when I started coding, and now I've been crafting interactive web games, apps, and websites.</p>
+            <p>It's been 6+ years when I started coding, and now I've been crafting interactive web games, apps, websites, & Drone Building/Programming.</p>
             <p>I have been teaching CS Programming alongside Boston Public Schools for about 1.8 years starting beginning of 2022 to the end of 2023. I have been teaching Drone Building/Programming, CyberSecurity, & AI on weekends for 2 years now at the Urban League Eastern MA YODA program.</p>
           </>
     },
