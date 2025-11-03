@@ -373,7 +373,7 @@ export const SIGNS = [
         content: 
           <>
             <h2 style={{ textAlign: 'center' }}>👋 Hello There</h2>
-            <p>I'm <strong>Ekilisandro</strong>, who loves to program and create websites, video games, & software.</p>
+            <p>I'm <strong>Ekilisandro</strong>, who loves to program and create websites, video games, & apps throught the <strong>Greater Boston Area</strong></p>
             <div style={{ display: 'flex', gap: '10px', marginTop: '5px', justifyContent: 'center', textAlign: 'center' }}>
               <span style={{ background: '#61DBFB', color: 'black', padding: '5px 10px', borderRadius: '20px', fontSize: '12px' }}>Website Developer</span>
               <span style={{ background: '#61DBFB', color: 'black', padding: '5px 10px', borderRadius: '20px', fontSize: '12px' }}>Game Developer/Drones</span>
