@@ -404,7 +404,7 @@ export const SIGNS = [
               <li style={{ background: 'rgba(255,214,0,0.1)', padding: '8px', borderRadius: '4px', marginBottom: '8px', borderLeft: '3px solid #ffd600' }}>I've Built 10+ interactive websites for minority owned business, and Boston's website</li>
               <li style={{ background: 'rgba(255,214,0,0.1)', padding: '8px', borderRadius: '4px', marginBottom: '8px', borderLeft: '3px solid #ffd600' }}>Revamped Roxbury Community College website</li>
               <li style={{ background: 'rgba(255,214,0,0.1)', padding: '8px', borderRadius: '4px', marginBottom: '8px', borderLeft: '3px solid #ffd600' }}>Taught CS Programming & Web Dev to ages 14-18 at The English High School in Boston, MA, & teaching Drone Building/Programming, Cyber Security, & AI at the Urban League Eastern MA to ages 12-19</li>
-              <li style={{ background: 'rgba(255,214,0,0.1)', padding: '8px', borderRadius: '4px', marginBottom: '8px', borderLeft: '3px solid #ffd600' }}>Created many web based games, and work alongside Benny Wilson to create a game on Unity named BEANS <link>https://www.rcc.mass.edu/</link></li>
+              <li style={{ background: 'rgba(255,214,0,0.1)', padding: '8px', borderRadius: '4px', marginBottom: '8px', borderLeft: '3px solid #ffd600' }}>Created many web based games, and work alongside Benny Wilson to create a game on Unity named BEANS</li>
             </ul>
           </>
     },
