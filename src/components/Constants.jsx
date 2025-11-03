@@ -414,10 +414,10 @@ export const SIGNS = [
             <h2>⚒️ Okay, Let me show you some of my work...</h2>
             <p>I love building stuff that's playable, not just viewable to skip off the next time.</p>
             <ul style={{ listStyleType: 'none', padding: '0', margin: '0' }}>
-              <li>🧩 Emojilator – A Match-3 game</li>
-              <li>🕹️ Coin Collector – Pure canvas fun</li>
-              <li>🌌 Tic Tac Toe – An AI Powered one</li>
-              <li>📜 This Platformer Resume – You’re inside!</li>
+              <li>🕹️ Worked on a team and created the game BEANS using <strong>Unity Game Engine</strong></li>
+              <li>🕹️ Worked with Benny Wilson and created the game ASANTE using <strong>Unreal Game Engine</strong></li>
+              <li>🛜 Craeted websites for minority business within the Greater Boston Area & in the West Cost (CA/AR) <a href="https://snycole.wixsite.com/my-site-1">Coach Nycole Life Coach</a> <a href="https://braydengillespie.wixsite.com/the-realm-of-thoth">Brayden Gillespie Tutoring Service</a> <a href="https://eteixeira122187.wixsite.com/cpelive">Shawn Peters Party Planning/Rentals</a></li>
+              <li>🧑🏾‍💻🕴🏾 Run a business that brings CS Programming Education to the inner city of Boston, MA <a href="https://www.b3antowncsdojo.com/">Beantown Computer Science Dojo</a></li>
             </ul>
           </>
     },
@@ -426,7 +426,7 @@ export const SIGNS = [
           <>
             <h2>🧠 So what can I do?</h2>
             <p>Well, it's something you're already looking at, when you were collecting the glowing orbs..</p>
-            <p>I hope you enjoy collecting them.</p>
+            <p>I have many skills or talents, I am great with the youth, I am a team player, I am always looking to learn never content with what I know. I hope you enjoy collecting them.</p>
           </>
     },
     { x: 10000, y: GROUND_Y - 50, width: 140, height: 60, label: 'Problem Solving',
@@ -442,7 +442,7 @@ export const SIGNS = [
           <>
             <h2>🎮 And Why I Chose Games</h2>
             <p>Because games are more than code snippets — they’re <strong style={{ color: '#6b6ba1ff', textShadow: '0 0 2px rgba(56,142,60,0.3)' }}>experiences</strong> that can teach, entertain, and connect people like nothing else.</p>
-            <p>I build games because I love seeing people <strong style={{ color: '#6b6ba5ff' }}>smile, think, or feel wowed</strong> by something they just experienced.</p>
+            <p>I build games because I love seeing people <strong style={{ color: '#6b6ba5ff' }}>smile, think, or feel wowed</strong> by something they just experienced. I enjoy creating and sharing that creation with others, once i learn something I know I have learned if I can teach it as well.</p>
           </>
     },
     { x: 13730, y: GROUND_Y - 90, width: 140, height: 60, label: 'My Architecture',
