@@ -448,7 +448,7 @@ export const SIGNS = [
     { x: 13730, y: GROUND_Y - 90, width: 140, height: 60, label: 'My Architecture',
         content: 
           <>
-            <h2>🏛️ Okay but, How I Structure Things</h2>
+            <h2>🏛️ Okay but, How I Structure Things When Working with React Games</h2>
             <ul style={{ listStyleType: 'none', padding: '0', margin: '0' }}>
               <li>🎮 <b>ECS (Entity Component System)</b> for game state & behavior</li>
               <li>🧵 <b>Decoupled loops</b>: React UI ←→ game loop (requestAnimationFrame)</li>
@@ -462,8 +462,8 @@ export const SIGNS = [
         content: 
           <>
             <h2>📜 Just so you know...</h2>
-            <p>You see, I'm a certified <strong style={{ color: '#649a8dff' }}>Programming Techniques Master</strong>, having scored RANK 10 at the state level. The Certificate was provided by Bharathidasan University.</p>
-            <p>And also I am a <strong style={{ color: '#649a8dff' }}>national rank holder</strong> at the NFLAT Examination 2016-17, so you can say I'm an expert in Math.</p>
+            <p>You see, I'm a certified <strong style={{ color: '#649a8dff' }}>Act Job Readiness</strong>, having scored a SILVER RANK, certification came from ACT Job Readiness</p>
+            <p>And also will have my <strong style={{ color: '#649a8dff' }}>Associates Degree in CS Programming</strong> in June of 2026, will be pursuing my bachelors degree in CS Programming & Psycology looking to graduate in June of 2027.</p>
           </>
     },
     { x: 16305, y: GROUND_Y - 350, width: 90, height: 60, label: 'My Stats',
@@ -471,11 +471,11 @@ export const SIGNS = [
           <>
             <h2>📈 Curious about numbers?</h2>
             <ul style={{ listStyleType: 'none', padding: '0', margin: '0' }}>
-              <li>🚀 20+ mini projects completed</li>
+              <li>🧑🏾‍💻 15+ websites created for minority owned businesses</li>
               <li>🕹️ 5 full-fledged playable games</li>
-              <li>🧠 1 personal engine in the works</li>
+              <li>🧠 1 crypto project made during a hackathon for HEDERA DBITS</li>
             </ul>
-            <p>And I still feel like I’m just getting started.</p>
+            <p><b>And I have many more projects on the way regarding Drones & more game dev on a bigger scale. I also created a comic book, well I wrote it still working on the rest of it, plan on turning it into a video game.</b></p>
           </>
     },
     { x: 18000, y: GROUND_Y + 50, width: 110, height: 60, label: 'Contact Me',
@@ -483,7 +483,7 @@ export const SIGNS = [
           <>
             <h2>📬 Oops! We’ve reached the end!</h2>
             <p>Too bad, <strong style={{ color: '#70a203ff' }}>We still have a few more things to talk about</strong>. Maybe if you're willing, You will find it out if you decode this Hieroglyph.</p>
-            <p>And, I hope you enjoyed this little <strong style={{ color: '#70a203ff' }}>adventure</strong>. Have fun exploring! 😁</p>
+            <p>And, I hope you enjoyed this little <strong style={{ color: '#70a203ff' }}>adventure</strong>. Have fun exploring! 😁 For contact information visit my website <a href="https://www.b3antowncsdojo.com/">Go To Contact</a></p>
           </>
     },
     { x: 20500, y: GROUND_Y + 50, width: 90, height: 60, label: 'The End',
@@ -491,7 +491,7 @@ export const SIGNS = [
           <>
             <h2>🚩 And That's It!</h2>
             <p>Thanks for taking your time to visit here.</p>
-            <p><strong style={{ color: '#04bb97ff' }}>Have a good day</strong> 😁</p>
+            <p><strong style={{ color: '#04bb97ff' }}>Have a good day</strong> 😎</p>
           </>
     },
 ];
