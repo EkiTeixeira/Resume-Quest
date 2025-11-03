@@ -133,7 +133,7 @@ const ResumeModal = ({ isOpen, onClose }) => {
             width: '100%'
           }}>
             <a 
-              href="https://drive.google.com/file/d/1Ui3qs54M5grRtzQpa6vCScuogV2B7rIQ/view?usp=sharing" 
+              href="https://docs.google.com/document/d/1RHP8M5CKdtVKbOAAFOVkN4YpQNLpO9oq4CzB0JOGeY8/edit?usp=drive_link" 
               target="_blank" 
               rel="noopener noreferrer" 
               style={{
