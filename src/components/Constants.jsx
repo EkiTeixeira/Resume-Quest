@@ -401,7 +401,7 @@ export const SIGNS = [
           <>
             <h2 style={{ background: 'linear-gradient(to right, #ffd600, #ffab00)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', display: 'inline-block' }}>🏆 And Coming to my Career Highlights</h2>
             <ul style={{ listStyleType: 'none', padding: '0', margin: '0' }}>
-              <li style={{ background: 'rgba(255,214,0,0.1)', padding: '8px', borderRadius: '4px', marginBottom: '8px', borderLeft: '3px solid #ffd600' }}>I've Built 10+ interactive websites for minority owned business, and Boston's website</li>
+              <li style={{ background: 'rgba(255,214,0,0.1)', padding: '8px', borderRadius: '4px', marginBottom: '8px', borderLeft: '3px solid #ffd600' }}>I've Built 10+ interactive websites for minority owned business, and Boston's website<a href="https://visitboston.com/">link text</a></li>
               <li style={{ background: 'rgba(255,214,0,0.1)', padding: '8px', borderRadius: '4px', marginBottom: '8px', borderLeft: '3px solid #ffd600' }}>Revamped Roxbury Community College website</li>
               <li style={{ background: 'rgba(255,214,0,0.1)', padding: '8px', borderRadius: '4px', marginBottom: '8px', borderLeft: '3px solid #ffd600' }}>Taught CS Programming & Web Dev to ages 14-18 at The English High School in Boston, MA, & teaching Drone Building/Programming, Cyber Security, & AI at the Urban League Eastern MA to ages 12-19</li>
               <li style={{ background: 'rgba(255,214,0,0.1)', padding: '8px', borderRadius: '4px', marginBottom: '8px', borderLeft: '3px solid #ffd600' }}>Created many web based games, and work alongside Benny Wilson to create a game on Unity named BEANS</li>
@@ -411,7 +411,7 @@ export const SIGNS = [
     { x: 7000, y: GROUND_Y - 650, width: 110, height: 60, label: 'My Projects',
         content: 
           <>
-            <h2>🎮 Okay, Let me show you some of my work...</h2>
+            <h2>⚒️ Okay, Let me show you some of my work...</h2>
             <p>I love building stuff that's playable, not just viewable to skip off the next time.</p>
             <ul style={{ listStyleType: 'none', padding: '0', margin: '0' }}>
               <li>🧩 Emojilator – A Match-3 game</li>
