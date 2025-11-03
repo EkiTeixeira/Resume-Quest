@@ -4,7 +4,7 @@ const ResumeModal = ({ isOpen, onClose }) => {
   // Function to handle download
   const handleDownload = () => {
     const link = document.createElement('a');
-    link.href = 'https://drive.google.com/uc?export=download&id=1Ui3qs54M5grRtzQpa6vCScuogV2B7rIQ';
+    link.href = 'https://drive.google.com/file/d/1ece_qgrbl-aozyh7dbTet1i3xmaTpYjD/view?usp=drive_link';
     link.setAttribute('download', 'Resume.pdf');
     document.body.appendChild(link);
     link.click();
