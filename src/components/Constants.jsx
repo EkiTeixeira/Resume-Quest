@@ -483,7 +483,7 @@ export const SIGNS = [
           <>
             <h2>📬 Oops! We’ve reached the end!</h2>
             <p>Too bad, <strong style={{ color: '#70a203ff' }}>We still have a few more things to talk about</strong>. Maybe if you're willing, You will find it out if you decode this Hieroglyph.</p>
-            <p>And, I hope you enjoyed this little <strong style={{ color: '#70a203ff' }}>adventure</strong>. Have fun exploring! 😁 For contact information visit my website <a href="https://www.b3antowncsdojo.com/">Go To Contact</a></p>
+            <p>And, I hope you enjoyed this little <strong style={{ color: '#70a203ff' }}>adventure</strong>. Have fun exploring! 😁 For contact information visit my website <a href="https://www.b3antowncsdojo.com/contact">Beantown CS Dojo Contact</a></p>
           </>
     },
     { x: 20500, y: GROUND_Y + 50, width: 90, height: 60, label: 'The End',
