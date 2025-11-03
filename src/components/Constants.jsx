@@ -383,9 +383,9 @@ export const SIGNS = [
     { x: 1850, y: GROUND_Y - 50, width: 120, height: 60, label: 'My Education',
         content: 
           <>
-            <h2>📚 About My Education</h2>
+            <h2>🏫 About My Education</h2>
             <p>Currently a college student at Bunker Hill Community College (Grad Date: 6/2026), <strong style={{ color: '#388e3c', textShadow: '0 0 2px rgba(56,142,60,0.3)' }}>I love to program & I love to teach it as well.</strong>.</p>
-            <p>After Graduating from BHCC I plan on finishing up and getting a bachlors degree, <strong style={{ color: '#388e3c', textShadow: '0 0 2px rgba(56,142,60,0.3)' }}>in CS Programming & Pyscology.</strong> i plan on starting a small school for Game Dev, Drone Building/Programming, & Website Building.</p>
+            <p>After Graduating from BHCC I plan on finishing up and getting a bachlors degree, <strong style={{ color: '#388e3c', textShadow: '0 0 2px rgba(56,142,60,0.3)' }}>in CS Programming & Pyscology.</strong> I plan on starting a small school for Game Dev, Drone Building/Programming, & Website Building.</p>
           </>
     },
     { x: 3475, y: 250, width: 140, height: 60, label: 'Past Experience',
@@ -393,7 +393,7 @@ export const SIGNS = [
           <>
             <h2>💼 About my experience..</h2>
             <p>It's been 6+ years when I started coding, and now I've been crafting interactive web games, apps, and websites.</p>
-            <p>I have been teaching CS Programming alongside Boston Public Schools for about 1.8 years starting beginning of 2022 to the end of 202. I have been teaching on weekends for 2 years now at the Urban League Eastern MA YODA program.</p>
+            <p>I have been teaching CS Programming alongside Boston Public Schools for about 1.8 years starting beginning of 2022 to the end of 2023. I have been teaching Drone Building/Programming, CyberSecurity, & AI on weekends for 2 years now at the Urban League Eastern MA YODA program.</p>
           </>
     },
     { x: 5000, y: GROUND_Y - 150, width: 150, height: 60, label: 'My Achievements',
